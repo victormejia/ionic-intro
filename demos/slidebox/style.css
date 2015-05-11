@@ -12,8 +12,12 @@ body {
   padding: 100px 0;
 }
 
+.box h1 {
+	color: #fff;
+}
+
 .blue {
-  background: blue;
+  background: #2F63B8;
 }
 
 .yellow {
@@ -22,4 +26,13 @@ body {
 
 .pink {
   background: pink;
+}
+
+.gray {
+	background: #272A32;
+}
+
+.slide1 {
+	background: url(/img/stock1.jpg);
+	background-size: cover;
 }
