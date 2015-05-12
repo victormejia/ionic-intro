@@ -1,4 +1,4 @@
-Present Ionic Framework
+Intro to Ionic
 =============
 
 [Start the presentation](http://victormejia.github.io/ionic-intro)
