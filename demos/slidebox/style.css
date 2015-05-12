@@ -33,6 +33,6 @@ body {
 }
 
 .slide1 {
-	background: url(/img/stock1.jpg);
+	background: url(../../img/stock1.jpg);
 	background-size: cover;
 }
